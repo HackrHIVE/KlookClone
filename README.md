@@ -1,7 +1,7 @@
 # KlookClone
-Clone of Klook made for architecticastartups.com as a task for Internship
+Clone of Klook made for ![ArchitecticaStartups](architecticastartups.com) as a task for Internship
 > Main Homepage
-> ![enter image description here](https://i.imgur.com/tzLZulu.png)
+> ![Explore Fragment](https://i.imgur.com/tzLZulu.png)
 > Main Homepage Extended
 > ![Extended Explore Fragment](https://i.imgur.com/b5uEBuk.png)
 > Shopping Cart
