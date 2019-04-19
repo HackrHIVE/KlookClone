@@ -1,5 +1,5 @@
 # KlookClone
-Clone of Klook made for ![ArchitecticaStartups](architecticastartups.com) as a task for Internship
+Clone of Klook made for [ArchitecticaStartups](architecticastartups.com) as a task for Internship
 > Main Homepage
 > ![Explore Fragment](https://i.imgur.com/tzLZulu.png)
 > Main Homepage Extended
