@@ -1,7 +1,7 @@
 # KlookClone
 Clone of Klook made for [ArchitecticaStartups](architecticastartups.com) as a task for Internship
 > Main Homepage
-> <img src="https://i.imgur.com/tzLZulu.png" width="150">
+> <img src="https://i.imgur.com/tzLZulu.png" width="250">
 > Main Homepage Extended
 > ![Extended Explore Fragment](https://i.imgur.com/b5uEBuk.png)
 > Shopping Cart
