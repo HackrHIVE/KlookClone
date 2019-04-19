@@ -22,3 +22,6 @@ Clone of Klook made for [ArchitecticaStartups](architecticastartups.com) as a ta
  - Aim is to create full clone on Klook , so that you can use this and add your functionalities to it and can get an Idea about design.
 
 `cout<<"Thanks";`
+`System.out.println("Thanks");`
+`print('Thanks')`
+`Toast.makeText(Github.this,"Thanks",Toast.LENGTH_SHORT).show();`
