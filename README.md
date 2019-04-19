@@ -1,13 +1,13 @@
 # KlookClone
 Clone of Klook made for [ArchitecticaStartups](architecticastartups.com) as a task for Internship
 > Main Homepage
-> ![Explore Fragment](https://i.imgur.com/tzLZulu.png)
+> ![Explore Fragment](https://i.imgur.com/tzLZulu.png =250px)
 > Main Homepage Extended
-> ![Extended Explore Fragment](https://i.imgur.com/b5uEBuk.png)
+> ![Extended Explore Fragment](https://i.imgur.com/b5uEBuk.png =250px)
 > Shopping Cart
-> ![Shopping Cart Fragment](https://i.imgur.com/JhwqCgL.png)
+> ![Shopping Cart Fragment](https://i.imgur.com/JhwqCgL.png =250px)
 > Bookings 
-> ![Bookings Fragment](https://i.imgur.com/1HJw7ca.png)
+> ![Bookings Fragment](https://i.imgur.com/1HJw7ca.png =250px)
 
 ### Libraries used for this :
  - ### [Material-BottomNavigation](https://github.com/sephiroth74/Material-BottomNavigation)
