@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="OrangeColour">#ff6f41</color>
+    <color name="popularDests">#424242</color>
+    <color name="starColor">#EFCE4A</color>
+    <color name="avaiableColor">#31ab50</color>
+    <color name="backgroundMain">#f3f4f5</color>
+    <color name="gradStartCol">#ff9557</color>
+    <color name="gradEndCol">#ff6b3d</color>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Klook Clone</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_account">Account</string>
+    <string name="title_bookings">Bookings</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_destinations">Destinations</string>
+    <string name="title_explore">Explore</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header_desc">Discover and book amazing things-to-do at exclusive prices</string>
+    <string name="header">YOURS TO EXPLORE</string>
+</resources>

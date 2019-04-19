@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@+id/containerActivities"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    android:layout_marginTop="5dp"
+    app:cardCornerRadius="2dp"
+    android:layout_marginBottom="10dp"
+    android:elevation="6dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/activityCover"
+            android:scaleType="centerCrop"
+            android:layout_weight="2"
+            />
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:text="HeaderTitle"
+                android:fontFamily="@font/roboto_bold"
+                android:id="@+id/activityHeader"
+                android:layout_height="wrap_content" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="14dp"
+                    android:id="@+id/star"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/ic_star"
+                    android:layout_height="14dp" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:id="@+id/rating"
+                    android:layout_toRightOf="@id/star"
+                    android:text="4.7"
+                    android:textColor="@color/starColor"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_toRightOf="@id/rating"
+                    android:id="@+id/reviews"
+                    android:text="(18953 reviews)"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_toRightOf="@id/reviews"
+                    android:id="@+id/tempBreak"
+                    android:text=" | "
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_toRightOf="@id/tempBreak"
+                    android:layout_width="wrap_content"
+                    android:text="531K Booked"
+                    android:id="@+id/bookings"
+                    android:layout_height="wrap_content" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:orientation="horizontal"
+                android:layout_marginTop="6dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:id="@+id/priceActivity"
+                    android:text="₹1,181"
+                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:layout_width="16dp"
+                    android:layout_marginTop="2dp"
+                    android:id="@+id/flash"
+                    android:layout_toRightOf="@id/priceActivity"
+                    android:background="@drawable/ic_flash"
+                    android:layout_height="16dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:text="Available Today"
+                    android:textColor="@color/avaiableColor"
+                    android:layout_height="wrap_content" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
