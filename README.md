@@ -1,14 +1,14 @@
 
 # KlookClone
 Clone of Klook made for [ArchitecticaStartups](architecticastartups.com) as a task for Internship
->## Main Homepage
+> Main Homepage
 <img src="https://i.imgur.com/tzLZulu.png" width="250">
 <img src="https://i.imgur.com/b5uEBuk.png" width="250">
 
->## Main Homepage Extended
+> Main Homepage Extended
 <img src="https://i.imgur.com/JhwqCgL.png" width="250">
 
->## Bookings
+> Bookings
 <img src="https://i.imgur.com/1HJw7ca.png" width="250">
 
 >### Libraries used for this :
