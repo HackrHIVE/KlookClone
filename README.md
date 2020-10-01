@@ -1,6 +1,6 @@
 
 # KlookClone
-Clone of Klook made for [ArchitecticaStartups](architecticastartups.com) as a task for Internship
+Clone of Klook made for [ArchitecticaStartups](architecticastartups.com) as a task for Internship purpose
 > Main Homepage
 <img src="https://i.imgur.com/tzLZulu.png" width="250">
 <img src="https://i.imgur.com/b5uEBuk.png" width="250">
